@@ -23,7 +23,7 @@
 
 ### What SIT can put on the table
 - provide capability training related to immersive technologies
-- provide PIXEL coys with first-hand access to IP created from the research horizontals
+- provide PIXEL coys with first-hand access to IP created from the research horizontals, e.g., virtual campus
 - provide PIXEL coys access to our eqpt sharing platform
 - provide access to academic-led funding opportunities with PIXEL coys
 
@@ -36,6 +36,8 @@
   - industry impact as priority
   - growing community
 - specialized in T&L, and particularly endorse applied learning, workplace learning
+- applied learning pedagogy that involves students in contributing towards research outcomes
+- doorway to industry-focused OU programme students, e.g., DigiPen
 
 # SMRT
 
@@ -58,58 +60,24 @@
 ### Problem
 - need to be remunerated for their efforts
 
-###
+### Collaboration
+- co-develop the simulation layer
 
-Have IMDA PIXEL tenants be involved in 
-- roundtable at their premise 
-- framework of in-kind contributions
-- in-kind from them to tackle problems
-- centre boils down to individual projects
-- equipment companies provide in-kind
-- showcase as in-kind for pixel, booth space
-- software tools vendors
-unique equipment
+
+## Virtual campus project
 ACSL -> NYP -> punggol
 
-Nisha HTX
-
-## self-sustainability
-- membership subscription next time
-
-Lab 
-Centre
-
-establish
-
-what is this pathway towards 30% contribution
-student resources to do the work because of applied learning
-
-## PROBLEM
-what is their problem 
-
-# 5G?
-- to service their XR as testbed
-
-MoU
-- knowledge transfer
-- OU expertise
-
-Formal
+## Possible strategies for future
+- membership subscription
+-  XR to be included as a component for 5G testbed
+- MoUs on knowledge transfer
 
 
-Building XR focus area with 5G
-- poster IMDA expanding expertise 
-- have 
-
-SIT as consultants
-- well-positioned as mentors
-- can have formal agreement on this
-
-### XR companies at PIXEL
-webrtc astar coy
-2x companies doing healthcare 
+## XR companies at PIXEL
+-some webrtc AStar coy
+- 2x companies doing healthcare 
 - one is haptics
-testing is useful for ARVR
-remote collar platform but founders not in SG
-content-based XR haptics, entertainment
-h/w distribution type
+- testing is useful for ARVR
+-  remote collar platform but founders not in SG
+- content-based XR haptics, entertainment
+- h/w distribution type
