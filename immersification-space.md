@@ -45,3 +45,11 @@ To provide a bit more prior context, I spoke with Edward on how the ideal case i
 In case there is some misunderstanding, the L4 office area has 2 office spaces that have separate glass door entrances. The large one on the right is already being used as a faculty office and we are not suggesting to touch that. We are proposing to use the one on the left which is currently used as storage for spare classroom furniture. And yes we are hoping to use that as a permanent Centre space until further development. 
 
 Let me know if we need a zoom call to clarify things.
+
+
+e
+## additional
+1. We will brief anyone whouses the space on the conditionsjkk
+
+
+
