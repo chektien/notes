@@ -51,4 +51,6 @@ Let me know if we need a zoom call to clarify things.
 
 [to put in official space request]
 
+## additional
+1. We will brief anyone who uses the space on the conditions
 
