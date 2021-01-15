@@ -49,5 +49,9 @@ Let me know if we need a zoom call to clarify things.
 ## additional
 1. We will brief anyone who uses the space on the conditions.
 
+> Noted your comments on the discussions which may be done within the lab and office spaces.
+> Like to clarify that both Level 4 offices are meant for faculty seating, the storage is a temporary arrangement. Some considerations on usage of the Level 4 office include: by allowing the 9 RE and 2 RF to sit at the available space, if the space runs out, who is to ask them to leave so that the intended occupants new faculty)( could occupy the space. The precedents that would be set once other faculty hear of it.) \#\# additional
+
+[to put in official space request]
 
 
