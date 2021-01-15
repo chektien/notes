@@ -6,29 +6,29 @@ We think all the projects listed by SMRT share the common problems we aim to add
 In particular, all of SMRT projects require intensive resources to create the AR/VR/MR virtual environments and will need for the developers to implement novel interaction mechanisms that, e.g., allow trainees to have effectve training experience.
 
 
-# 
+# Collaboration plans 
 
 ### What SMRT can put on the table
 
--   EOM for co-developing research horizontals that benefit all XR projects in SMRT
+1. Funding the co-development of tools that can benefit most XR projects in SMRT
 
-    -   work towards immersification in LTA and subsequently transport industry globally?
+2. Supporting the Centre's development of research horizontals
+  - benefits the broader community
+  - in turn benefits XR projects in SMRT
 
-        -   need to discuss whether open to open-sourcing and benefiting all in the community
+For 1 
+- EOM for co-developing tools that can benefit all XR projects in SMRT
+  - work towards immersification in LTA and subsequently transport industry globally?
+  - need to discuss whether open to open-sourcing and benefiting all in the community
+  - EOM roles can be purely advisory
+  - only commitment is to attend Immersive Roundtable every month
+- 
 
-            -   EOM roles can be purely advisory
-
-                -   only commitment is to attend Immersive Roundtable every month
-
-                ### What SIT can put on the table
-
-                -   provide the community platform for capability training from SIT and all the core IHL + Industry partners in this space
-
-                -   provide access to share EQT resources
-
-                -   further opportunities for academic-led funding for individual projects
-
-                -   already collaborating with SIT on several ongoing and future projects
+### What SIT can put on the table
+- provide the community platform for capability training from SIT and all the core IHL + Industry partners in this space
+- provide access to share EQT resources
+- further opportunities for academic-led funding for individual projects
+- already collaborating with SIT on several ongoing and future projects
 
 ## Visitors to the AXR Lab
 1. Kang Huey Ling (Principal, SMRT Institute)
