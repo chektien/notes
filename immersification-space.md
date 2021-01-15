@@ -46,10 +46,8 @@ In case there is some misunderstanding, the L4 office area has 2 office spaces t
 
 Let me know if we need a zoom call to clarify things.
 
-
-e
 ## additional
-1. We will brief anyone whouses the space on the conditionsjkk
+1. We will brief anyone who uses the space on the conditions.
 
 
 
