@@ -5,6 +5,9 @@ We think all the projects listed by SMRT share the common problems we aim to add
 
 In particular, all of SMRT projects require intensive resources to create the AR/VR/MR virtual environments and will need for the developers to implement novel interaction mechanisms that, e.g., allow trainees to have effectve training experience.
 
+
+# 
+
 ### What SMRT can put on the table
 
 -   EOM for co-developing research horizontals that benefit all XR projects in SMRT
@@ -27,3 +30,17 @@ In particular, all of SMRT projects require intensive resources to create the AR
 
                 -   already collaborating with SIT on several ongoing and future projects
 
+## Visitors to the AXR Lab
+1. Kang Huey Ling (Principal, SMRT Institute)
+2. Vincent Lee Chee Hoong (Training Manager)
+3. Benjamin Chen Qiming(Team Lead, Learning Technologies)
+4. Maria Kormentza (Senior Curriculum Developer, supervises SIT interns)
+5. Byrne Lim Kuanmin (Senior Software Engineer)
+6. Wong Yu Lian
+7. Wong Zi Xing
+8. Fenny Ng Bei Fen  
+9. Low Chang Peng
+10.Vaswani Anand Lachman
+11.Vicky Gunawan  
+
+I'm also supervising Raynor working in the digital department under Nigel, in cybersecurity.
