@@ -17,6 +17,10 @@ https://rama.works/guides#/m60-keycap-selection/
 Cherry MX Browns
 \$50 for 80
 
+Possible options for more tactility
+- zealio v2 67g
+- drop invr holy pandas
+
 ## Stabilizers
 Durock transparent gold-plated
 \$25

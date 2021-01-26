@@ -63,3 +63,6 @@ Co-development of tools that can specifically benefit a number of XR projects in
 11.Vicky Gunawan  
 
 I'm also supervising Raynor working in the digital department under Nigel, in cybersecurity.
+
+### RMDP THI proposal
+- how about SGRAIL scholarship potential
