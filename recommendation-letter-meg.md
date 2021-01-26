@@ -12,15 +12,15 @@ As a person, she is always polite and shows respect for others. In general, she 
 
 In all, I have no reservations recommending Ms Megani for a software engineering or developer position that is technically demanding. I am confident that she will perform well in her future endeavours given my interactions with her.
 
- \ 
+\ 
 
 regards,
 
- \ 
+\ 
 
- \ 
+\ 
 
- \ 
+\ 
 
 Dr Chek Tien TAN\
 Associate Professor and Director, Centre of Immersification\
